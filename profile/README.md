@@ -1,6 +1,6 @@
 # Unbody
 
-**Unbody** is a new kind of development stack engineered for the **AI-native era**. It’s built to seamlessly handle data ingestion, transformation, and enrichment—turning raw, unstructured information into AI-ready knowledge. Unlike traditional approaches, Unbody moves beyond static databases and CRUD APIs, empowering you to build applications where AI isn’t just bolted on, but at the core of everything you do.
+[**Unbody**](https://unbody.io) is a new kind of development stack engineered for the **AI-native era**. It’s built to seamlessly handle data ingestion, transformation, and enrichment—turning raw, unstructured information into AI-ready knowledge. Unlike traditional approaches, Unbody moves beyond static databases and CRUD APIs, empowering you to build applications where AI isn’t just bolted on, but at the core of everything you do.
 
 ## Why Unbody?
 
