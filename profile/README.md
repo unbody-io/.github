@@ -1,42 +1,70 @@
-# Unbody: The Only API You Need to Build AI-Native Solutions
+# Unbody
 
-Welcome to **Unbody**, the go-to API for developers who want to build scalable, real-world AI solutions without needing a PhD in machine learning. With Unbody, you can integrate powerful AI capabilities directly into your applications, making AI development more accessible and straightforward than ever before.
+**Unbody** is a new kind of development stack engineered for the **AI-native era**. It’s built to seamlessly handle data ingestion, transformation, and enrichment—turning raw, unstructured information into AI-ready knowledge. Unlike traditional approaches, Unbody moves beyond static databases and CRUD APIs, empowering you to build applications where AI isn’t just bolted on, but at the core of everything you do.
 
-## 🚀 Key Features
+## Why Unbody?
 
-- **Data Integration**: Seamlessly integrates data from various sources and formats (text, images, videos, etc.).
-- **Model Flexibility**: Supports multiple AI models, including OpenAI and open-source alternatives, enabling custom solutions for different use cases.
-- **Automated Pipelines**: Automates the entire AI development process from data ingestion and processing to model deployment and monitoring.
-- **Scalability**: Designed to handle large datasets and scalable AI applications.
-- **Security and Compliance**: Built-in features to ensure data privacy, security, and compliance with industry standards.
-- **Multimodal Capabilities**: Supports applications requiring multimodal input and output, such as search engines that handle text, images, and videos.
-- **Media Streaming and CDN**: Integrates with media streaming APIs and CDNs for efficient content delivery.
-- **Real-time Monitoring**: Provides real-time analytics and monitoring to optimize AI models and data flow.
+### The Old Rules Don’t Apply
 
-## Use Cases
+Traditional software assumed data lived in tables, accessed through APIs, and presented in a frontend. **AI-native products break this model.** Data isn’t static; it’s alive—requiring continuous enrichment, vectorization, and semantic linking.
 
-Unbody can be used for a variety of AI applications, including but not limited to:
+### From Rows to Relationships
 
-- **Multimodal Search Engines**: Enhance search capabilities by allowing users to query across text, images, and videos using semantic search.
-- **Custom AI Chatbots**: Build chatbots that understand and interact using natural language, tailored to your specific data.
-- **Product Recommendation Engines**: Develop recommendation systems that personalize user experiences and drive engagement.
-- **AI Assistants**: Create AI-driven assistants to automate tasks and improve productivity.
-- **Profile Matching Engines**: Design matching algorithms for recruitment, dating, or networking platforms.
-- **Custom RAG APIs**: Provide tailored AI experiences by combining data retrieval with generative responses.
+Old relational structures aren’t enough. AI requires semantic relationships, enabling queries like, “What’s the most relevant document for this idea?” or “What products are similar to this image?” Achieving this with legacy tools is clumsy and inefficient.
 
-## 📚 Documentation
+### Bridging the AI Gap
 
-For full documentation, including advanced usage, API reference, and more, please visit our [Docs]([https://github.com/yourusername/unbody/wiki](https://www.unbody.io/docs)).
+AI models speak a different language. They need processed, vectorized, and cleaned data to perform effectively. Unbody provides a pipeline that prepares your data for large language models and vision models—no duct-taping of tools required.
 
-## 🤝 Contributing
-Soon...
+### Beyond CRUD
 
-## 🛡️ License
-Soon...
+APIs in an AI-native world must deliver intelligence, not just rows. Unbody’s APIs return semantic matches, generative responses, and recommendations out-of-the-box, freeing you from building complex middleware layers.
 
-## 📫 Contact
+## What Is AI-Native?
 
-Have questions, suggestions, or feedback? Feel free to open an issue or reach out to us at [hello@unbody.io](mailto:hello@unbody.io).
+**AI-Native**: AI is the engine, the foundation of your product. Remove it, and you have nothing.
 
-## 🌟 Support
-If you find Unbody helpful, please give us a star ⭐ on GitHub and spread the word!
+**AI-Enabled**: AI is an afterthought. Remove it, and the core product still exists—just less fancy.
+
+We believe AI-native is the future. Instead of patchworking AI onto legacy stacks, Unbody unifies AI and product development into one coherent ecosystem.
+
+## One Stack, One Workflow
+
+Instead of juggling multiple tools—LangChain, vector databases, bespoke pipelines—Unbody provides a single, model-agnostic stack. Ingest, process, vectorize, query, and serve data all from one place. Think of it as the MERN or MEAN stack reimagined for the AI-first world.
+
+**How Unbody Stands Out:**
+
+- **Unified Platform**: No cobbling together fragmented tools.  
+- **Model-Agnostic**: Use your preferred LLM or vision model.  
+- **Semantic APIs**: Query data in a way that’s meaningful to AI models.  
+- **Headless Architecture**: Serve multiple frontends from a single backend.  
+- **Scalable, AI-Ready Data Pipeline**: Transform raw data into rich, AI-ready knowledge automatically.
+
+## What Can You Build?
+
+With Unbody, the possibilities expand:
+
+- **A Perplexity-like QA system**, but for your company’s internal data.  
+- **A Tinder-like discovery experience**, but for your products or content.  
+- **A custom Alexa**, trained on your knowledge base.  
+- **A smarter internal Wikipedia**, powered by AI-driven semantic search.  
+- **A Shazam-like platform for images**, enabling visual similarity and classification.  
+- **Your own AI-first CMS**, making content directly AI-queryable.
+
+## Getting Started
+
+**Ready to build the future?** Head over to [Getting Started](https://docs.unbody.io/get-started) to begin.
+1. **Set Up Your Project:**  
+   - [Setup with Dashboard](https://docs.unbody.io/get-started/step-1-setup/setup-with-dashboard)  
+   - [Setup with SDK](https://docs.unbody.io/get-started/step-1-setup/setup-with-sdk)  
+2. **Build & Query:** Once configured, you can:  
+   - Query your data via GraphQL.  
+   - Tap into specialized Image, Video, and Audio APIs.  
+   - Connect to LLMs for semantic search, RAG workflows, or conversational interfaces.
+
+**Read the Vision:** Check out [Why Unbody?](https://docs.unbody.io/why) to fully grasp the underlying philosophy.  
+
+
+**Commercial Open-Source:** Unbody is a commercial open-source framework. Initially available as a cloud offering, open-source plans are in the works.
+
+Stop fighting your stack. Start building **AI-native**.  
