@@ -33,6 +33,7 @@ That shift demands a new kind of backend.
 Unbody brings the Supabase spirit to the AI-native era.
 
 ## How? 
+![](./Header.jpg)
 To build towards a more human software, we designed Unbody around four layers:
 - **Perception** (knowledge fabrication) — Ingest, parse, enhance, and vectorize raw data  
 - **Memory** (Storage & persistent memory) — Store structured knowledge in vector DBs and persistent storage  
