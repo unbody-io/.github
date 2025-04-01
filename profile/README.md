@@ -14,6 +14,11 @@ Unbody is an open-source, modular backend stack for building AI-native software 
 
 It’s designed to power a new generation of software: intelligent, context-aware, and autonomous by default.
 
+### Start Building
+→ [Start building](https://app.unbody.io)  
+→ [Read the Docs](https://docs.unbody.io)  
+→ [Join the Discord](https://discord.gg/unbody)
+
 ## Why Unbody?
 Modern software isn’t static. We talk to it. We expect it to think, decide, and take action.  
 Legacy stacks weren’t built for this shift. At the same time, the AI tooling ecosystem today is scattered and complex. Developers spend too much time duct-taping vector stores, embedding models, LLMs, pipelines, and APIs.
@@ -28,12 +33,13 @@ That shift demands a new kind of backend.
 Unbody brings the Supabase spirit to the AI-native era.
 
 ## How? 
-
 To build towards a more human software, we designed Unbody around four layers:
 - **Perception** (knowledge fabrication) — Ingest, parse, enhance, and vectorize raw data  
 - **Memory** (Storage & persistent memory) — Store structured knowledge in vector DBs and persistent storage  
 - **Reasoning** (AI & Autonomy) — Generate content, call functions, and plan actions  
 - **Action** (APIs & MCP) — Expose knowledge via APIs, SDKs, and triggers
+  
+→ [Read more](https://docs.unbody.io/architecture)  
 
 Each module is composable, pluggable, and open.
 
@@ -42,11 +48,5 @@ Each module is composable, pluggable, and open.
 - Semantic search & recommendation engines
 - Document understanding & AI-assisted workflows
 - Autonomously acting backends & agents
-
-## Start Building
-
-→ [Start building](https://app.unbody.io)  
-→ [Read the Docs](https://docs.unbody.io)  
-→ [Join the Discord](https://discord.gg/unbody)
 
 *The knowledge-first backend for the AI-native era — built together, in the open.*
